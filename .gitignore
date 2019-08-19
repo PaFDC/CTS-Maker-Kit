@@ -1,0 +1,6 @@
+# Exclude Microsoft Word .doc* files
+**/*.doc*
+
+# Exclude Autodesk EAGLE .brd and .sch version files
+**/*.b#*
+**/*.s#*
